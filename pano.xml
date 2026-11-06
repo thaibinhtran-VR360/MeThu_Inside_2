@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="21036" hassounds="0" start="node39" appversion="7.1.12">
+  <panorama id="node39">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-7.88354" fovmode="2">
+      <start fov="119.93" tilt="0.92" projection="4" pan="173.29"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 01" datetime="5/5/2025 11:46 AM" copyright="" nodeid="node39" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-7.88354" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="72.7536" y="-0.689392" x_floorplan_percent="10.3636" x="0.156555" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 02" url="{node38}" description="" tilt="-9.31" pan="59.64"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node38">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="39.8032" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 02" datetime="5/5/2025 11:46 AM" copyright="" nodeid="node38" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="39.8032" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="53.0435" y="-0.502625" x_floorplan_percent="34.5455" x="0.521851" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 01" url="{node39}" description="" tilt="-10.66" pan="-90.64"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 03" url="{node19}" description="" tilt="-16.95" pan="77.48"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node19">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-129.477" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 03" datetime="5/5/2025 11:35 AM" copyright="" nodeid="node19" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-129.477" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="56.8116" y="-0.53833" x_floorplan_percent="49.8182" x="0.752563" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 04" url="{node18}" description="" tilt="-25.79" pan="-77.16"/>
+      <hotspot id="Point03" skinid="ht_node_forward" target="$fwd" title="Điểm 02" url="{node38}" description="" tilt="-12.35" pan="-271.63"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node18">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-83.4574" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 04" datetime="5/5/2025 11:34 AM" copyright="" nodeid="node18" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-83.4574" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="49.1304" y="-0.465546" x_floorplan_percent="55.9091" x="0.844574" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" target="$fwd" title="Điểm 03" url="{node19}" description="" tilt="0" pan="-184.112"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 08" url="{node22}" description="" tilt="-28.41" pan="41.76"/>
+      <hotspot id="Point03" skinid="ht_node_forward" target="$fwd" title="Điểm 05" url="{node17}" description="" tilt="-15.79" pan="-45.35"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node17">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-92.8176" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 05" datetime="5/5/2025 11:34 AM" copyright="" nodeid="node17" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-92.8176" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="49.1304" y="-0.465546" x_floorplan_percent="61.2727" x="0.925598" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 04" url="{node18}" description="" tilt="-24.39" pan="-233.1"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 06" url="{node16}" description="" tilt="-17.34" pan="-50.08"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node16">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-142.06" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 06" datetime="5/5/2025 11:34 AM" copyright="" nodeid="node16" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-142.06" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="52.7536" y="-0.499878" x_floorplan_percent="70.9091" x="1.07117" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 05" url="{node17}" description="" tilt="-17" pan="-276.11"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 07" url="{node15}" description="" tilt="-17.24" pan="-84.31"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node15">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-68.5373" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 07" datetime="5/5/2025 11:33 AM" copyright="" nodeid="node15" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-68.5373" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="55.942" y="-0.53009" x_floorplan_percent="83.4545" x="1.26068" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 06" url="{node16}" description="" tilt="-10.39" pan="-217.59"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node22">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="13.765" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 08" datetime="5/5/2025 11:36 AM" copyright="" nodeid="node22" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="13.765" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="40.5797" y="-0.384521" x_floorplan_percent="55.6364" x="0.840454" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 04" url="{node18}" description="" tilt="-38.74" pan="-30.84"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 09" url="{node23}" description="" tilt="-25.48" pan="53.5"/>
+      <hotspot id="Point03" skinid="ht_node_forward" target="$fwd" title="Điểm 23" url="{node36}" description="" tilt="-26.65" pan="-123.23"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node23">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-144.402" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 09" datetime="5/5/2025 11:37 AM" copyright="" nodeid="node23" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-144.402" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="40.5797" y="-0.384521" x_floorplan_percent="61.2727" x="0.925598" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 08" url="{node22}" description="" tilt="-24.93" pan="-284.2"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 10" url="{node24}" description="" tilt="-24.01" pan="-14.81"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node24">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-66.6174" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 10" datetime="5/5/2025 11:37 AM" copyright="" nodeid="node24" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-66.6174" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="27.971" y="-0.265045" x_floorplan_percent="60" x="0.906372" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 09" url="{node23}" description="" tilt="-22.84" pan="-117.51"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 12" url="{node25}" description="" tilt="-19.15" pan="64.59"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node25">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-66.3307" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 12" datetime="5/5/2025 11:38 AM" copyright="" nodeid="node25" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-66.3307" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="17.971" y="-0.170288" x_floorplan_percent="60" x="0.906372" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 10" url="{node24}" description="" tilt="-15.42" pan="-120.39"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 13" url="{node26}" description="" tilt="-21.19" pan="66.87"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node26">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-222.156" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 13" datetime="5/5/2025 11:38 AM" copyright="" nodeid="node26" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-222.156" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="8.4058" y="-0.0796509" x_floorplan_percent="59.9091" x="0.904999" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 12" url="{node25}" description="" tilt="-24.38" pan="-268.01"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 14" url="{node27}" description="" tilt="-18.28" pan="-9.25"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node27">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-48.5069" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 14" datetime="5/5/2025 11:39 AM" copyright="" nodeid="node27" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-48.5069" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="6.37681" y="-0.0604248" x_floorplan_percent="50.5455" x="0.76355" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 13" url="{node26}" description="" tilt="-22.14" pan="-9.6"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 15" url="{node28}" description="" tilt="-21.11" pan="-181.22"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node28">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-39.3423" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 15" datetime="5/5/2025 11:39 AM" copyright="" nodeid="node28" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-39.3423" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="6.08696" y="-0.0576782" x_floorplan_percent="44.9091" x="0.678406" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 14" url="{node27}" description="" tilt="-21.89" pan="-355.84"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 16" url="{node29}" description="" tilt="-14.09" pan="-137.12"/>
+      <hotspot id="Point03" skinid="ht_node_forward" target="$fwd" title="Điểm 17" url="{node30}" description="" tilt="-9.48" pan="-177.84"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node29">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-117.589" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 16" datetime="5/5/2025 11:40 AM" copyright="" nodeid="node29" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-117.589" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="12.3188" y="-0.11673" x_floorplan_percent="40.3636" x="0.609741" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 15" url="{node28}" description="" tilt="-20.44" pan="-32.24"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 17" url="{node30}" description="" tilt="-20.12" pan="-290.98"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node30">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-19.7573" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 17" datetime="5/5/2025 11:40 AM" copyright="" nodeid="node30" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-19.7573" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="6.52174" y="-0.0617981" x_floorplan_percent="32.3636" x="0.488892" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 16" url="{node29}" description="" tilt="-18.92" pan="-12.76"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 18" url="{node31}" description="" tilt="-23.5" pan="-73.29"/>
+      <hotspot id="Point03" skinid="ht_node_forward" target="$fwd" title="Điểm 15" url="{node28}" description="" tilt="-12.99" pan="19.57"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node31">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-123.231" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 18" datetime="5/5/2025 11:41 AM" copyright="" nodeid="node31" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-123.231" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="16.8116" y="-0.159302" x_floorplan_percent="32" x="0.483398" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 17" url="{node30}" description="" tilt="-22.6" pan="8.31"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 19" url="{node32}" description="" tilt="-24.19" pan="-165.92"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node32">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-142.423" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 19" datetime="5/5/2025 11:41 AM" copyright="" nodeid="node32" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-142.423" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="26.5217" y="-0.251312" x_floorplan_percent="32.8182" x="0.495758" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 18" url="{node31}" description="" tilt="-25.05" pan="-5.95"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 20" url="{node33}" description="" tilt="-21.07" pan="-106.33"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node33">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-234.694" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 20" datetime="5/5/2025 11:42 AM" copyright="" nodeid="node33" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-234.694" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="27.5362" y="-0.260925" x_floorplan_percent="39.6364" x="0.598755" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 19" url="{node32}" description="" tilt="-22.26" pan="-21.51"/>
+      <hotspot id="Point02" skinid="ht_node" target="$fwd" title="Điểm 24" url="{node37}" description="" tilt="0" pan="-293.254"/>
+      <hotspot id="Point03" skinid="ht_node_forward" target="$fwd" title="Điểm 21" url="{node34}" description="" tilt="-21.76" pan="-165.4"/>
+      <hotspot id="Point04" skinid="ht_node_forward" target="$fwd" title="Điểm 22" url="{node35}" description="" tilt="-12.48" pan="-202.88"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node34">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="55.8261" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 21" datetime="5/5/2025 11:42 AM" copyright="" nodeid="node34" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="55.8261" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="15.6522" y="-0.148315" x_floorplan_percent="50.3636" x="0.760803" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" target="$fwd" title="Điểm 20" url="{node33}" description="" tilt="0" pan="-48.3779"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 22" url="{node35}" description="" tilt="-34.46" pan="40.12"/>
+      <hotspot id="Point03" skinid="ht_node_forward" target="$fwd" title="Điểm 23" url="{node36}" description="" tilt="-13.33" pan="5.39"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node35">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-230.582" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 22" datetime="5/5/2025 11:43 AM" copyright="" nodeid="node35" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-230.582" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="28.8406" y="-0.273285" x_floorplan_percent="55.1818" x="0.833588" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" target="$fwd" title="Điểm 21" url="{node34}" description="" tilt="0" pan="-69.3647"/>
+      <hotspot id="Point02" skinid="ht_node" target="$fwd" title="Điểm 20" url="{node33}" description="" tilt="0" pan="-372.595"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node36">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-130.68" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 23" datetime="5/5/2025 11:44 AM" copyright="" nodeid="node36" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-130.68" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="41.0145" y="-0.388641" x_floorplan_percent="50.1818" x="0.758057" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node_forward" target="$fwd" title="Điểm 24" url="{node37}" description="" tilt="-12.24" pan="-264.93"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 08" url="{node22}" description="" tilt="-17.95" pan="-94.53"/>
+      <hotspot id="Point03" skinid="ht_node_forward" target="$fwd" title="Điểm 21" url="{node34}" description="" tilt="-13.79" pan="-357.72"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <panorama id="node37">
+    <input levelbiashidpi="1.000" levelingroll="0" leveltilesize="510" levelbias="0.400" levelingpitch="0" height="2976" width="2976" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
+      <level preload="0" height="2976" predecode="0" width="2976"/>
+      <level preload="0" height="1488" predecode="0" width="1488"/>
+      <level preload="0" height="744" predecode="0" width="744"/>
+      <level preload="1" height="372" predecode="1" width="372"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-128.641" fovmode="2">
+      <start fov="100" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min tilt="-90" pan="0" fovpixel="1"/>
+      <max scaletofit="1" fov="100" tilt="90" fovstereographic="330" pan="360" fovfisheye="360"/>
+    </view>
+    <userdata info="" customnodeid="" title="Điểm 24" datetime="5/5/2025 11:45 AM" copyright="" nodeid="node37" author="" tags="MeThu" altitude="3.20" description="" latitude="15.583750" source="" heading="-128.641" comment="" longitude="108.511250">
+      <mapcoords y_floorplan_percent="41.3043" y="-0.391388" x_floorplan_percent="38.1818" x="0.576782" mapid="FloorPlan"/>
+    </userdata>
+    <hotspots height="20" width="180" wordwrap="1" smoothmovement="0">
+      <label borderradius="1" enabled="1" border="1" bordercolor="0x000000" borderalpha="1" backgroundalpha="1" backgroundcolor="0xffffff" height="20" width="180" textcolor="0x000000" textalpha="1" wordwrap="1" background="1"/>
+      <polystyle handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
+      <hotspot id="Point01" skinid="ht_node" target="$fwd" title="Điểm 20" url="{node33}" description="" tilt="0" pan="-7.2011"/>
+      <hotspot id="Point02" skinid="ht_node_forward" target="$fwd" title="Điểm 23" url="{node36}" description="" tilt="-14.77" pan="-87.19"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="40" enabled="1" zoomout="0" zoomin="0" delay="none" softedge="0" zoomfov="40" zoomspeed="2" zoomafterinfov="140" blendtime="1" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control simulatemass="1" contextprojections="0" zoomcentercursor="1" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" speedwheel="1" invertwheel="0" invertcontrol="1" rubberband="0" hideabout="0" dblclickfullscreen="0" lockedkeyboardzoom="0" contextvr="1" lockedmouse="0" sensitivity="8"/>
+  </panorama>
+  <masternode>
+    <userdata author="" tags="" title="Bảo tàng Tượng đài Mẹ Thứ" description="Bảo tàng" copyright="" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map title="" bgcolor="rgba(255, 255, 255, 1)" transparent="0" id="FloorPlan" crispedges="0" tileformat="jpg" zoomlevels="1" height="690" floorplannorth="131" width="1100" index="0" type="file"/>
+</tour>
