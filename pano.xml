@@ -41,7 +41,7 @@
       <min pan="0" tilt="-90" fovpixel="1"/>
       <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" tilt="90" fov="100"/>
     </view>
-    <userdata author="" latitude="15.583750" customnodeid="" title="Điểm 02" info="" tags="MeThu" longitude="108.511250" altitude="3.20" heading="39.8032" source="" nodeid="node38" comment="" datetime="5/5/2025 11:46 AM" copyright="" description="">
+    <userdata author="" latitude="15.583750" customnodeid="" title="Điểm 02" info="" tags="Menu|MeThu" longitude="108.511250" altitude="3.20" heading="39.8032" source="" nodeid="node38" comment="" datetime="5/5/2025 11:46 AM" copyright="" description="">
       <mapcoords x_floorplan_percent="34.5455" mapid="FloorPlan" y="-0.502625" y_floorplan_percent="53.0435" x="0.521851"/>
     </userdata>
     <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
@@ -238,7 +238,7 @@
       <min pan="0" tilt="-90" fovpixel="1"/>
       <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" tilt="90" fov="100"/>
     </view>
-    <userdata author="" latitude="15.583750" customnodeid="" title="Điểm 09" info="" tags="MeThu" longitude="108.511250" altitude="3.20" heading="-144.402" source="" nodeid="node23" comment="" datetime="5/5/2025 11:37 AM" copyright="" description="">
+    <userdata author="" latitude="15.583750" customnodeid="" title="Điểm 09" info="" tags="Menu|MeThu" longitude="108.511250" altitude="3.20" heading="-144.402" source="" nodeid="node23" comment="" datetime="5/5/2025 11:37 AM" copyright="" description="">
       <mapcoords x_floorplan_percent="61.2727" mapid="FloorPlan" y="-0.384521" y_floorplan_percent="40.5797" x="0.925598"/>
     </userdata>
     <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
@@ -492,7 +492,7 @@
       <min pan="0" tilt="-90" fovpixel="1"/>
       <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" tilt="90" fov="100"/>
     </view>
-    <userdata author="" latitude="15.583750" customnodeid="" title="Điểm 19" info="" tags="MeThu" longitude="108.511250" altitude="3.20" heading="-142.423" source="" nodeid="node32" comment="" datetime="5/5/2025 11:41 AM" copyright="" description="">
+    <userdata author="" latitude="15.583750" customnodeid="" title="Điểm 19" info="" tags="Menu|MeThu" longitude="108.511250" altitude="3.20" heading="-142.423" source="" nodeid="node32" comment="" datetime="5/5/2025 11:41 AM" copyright="" description="">
       <mapcoords x_floorplan_percent="32.8182" mapid="FloorPlan" y="-0.251312" y_floorplan_percent="26.5217" x="0.495758"/>
     </userdata>
     <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">
@@ -607,7 +607,7 @@
       <min pan="0" tilt="-90" fovpixel="1"/>
       <max pan="360" fovstereographic="330" fovfisheye="360" scaletofit="1" tilt="90" fov="100"/>
     </view>
-    <userdata author="" latitude="15.583750" customnodeid="" title="Điểm 23" info="" tags="MeThu" longitude="108.511250" altitude="3.20" heading="-130.68" source="" nodeid="node36" comment="" datetime="5/5/2025 11:44 AM" copyright="" description="">
+    <userdata author="" latitude="15.583750" customnodeid="" title="Điểm 23" info="" tags="Menu|MeThu" longitude="108.511250" altitude="3.20" heading="-130.68" source="" nodeid="node36" comment="" datetime="5/5/2025 11:44 AM" copyright="" description="">
       <mapcoords x_floorplan_percent="50.1818" mapid="FloorPlan" y="-0.388641" y_floorplan_percent="41.0145" x="0.758057"/>
     </userdata>
     <hotspots smoothmovement="0" height="20" wordwrap="1" width="180">

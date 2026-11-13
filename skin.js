@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 7.1.12/21036
 // Filename: MeThu_Inside_2.ggsk
-// Generated 2026-11-13T15:53:59
+// Generated 2026-11-13T16:31:55
 
 function pano2vrSkin(player,base) {
 	player.addVariable('vis_skin', 2, false, { ignoreInState: 1  });
@@ -2543,7 +2543,7 @@ navigator.share({ url: shareUrl });
 		el=me._thumbnail_menu=document.createElement('div');
 		el.ggId="thumbnail_menu";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1,def:'' };
-		el.ggVisible=true;
+		el.ggVisible=false;
 		el.className="ggskin ggskin_container ";
 		el.ggType='container';
 		hs ='';
@@ -2642,8 +2642,8 @@ navigator.share({ url: shareUrl });
 					me._thumbnail_menu.ggVisible=false;
 				}
 				else {
-					me._thumbnail_menu.style.visibility=(Number(me._thumbnail_menu.style.opacity)>0||!me._thumbnail_menu.style.opacity)?'inherit':'hidden';
-					me._thumbnail_menu.ggVisible=true;
+					me._thumbnail_menu.style.visibility="hidden";
+					me._thumbnail_menu.ggVisible=false;
 				}
 			}
 		}
@@ -19829,7 +19829,7 @@ alert("The current view has been copied.");
 		me._ht_node_title.ggUpdateText=function() {
 			var params = [];
 			params.push(String(player._(me.hotspot.title)));
-			var hs = player._("%1", params);
+			var hs = player._("%1\n", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
@@ -23258,7 +23258,7 @@ alert("The current view has been copied.");
 		me._ht_url_title.ggUpdateText=function() {
 			var params = [];
 			params.push(String(player._(me.hotspot.title)));
-			var hs = player._("%1", params);
+			var hs = player._("%1 V\xe0o tham quan B\u1ea3o t\xe0ng", params);
 			if (hs!=this.ggText) {
 				this.ggText=hs;
 				this.ggTextDiv.innerHTML=hs;
